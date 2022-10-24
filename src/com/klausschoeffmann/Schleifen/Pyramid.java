@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Pyramid {
 
     public static void main(String[] args) {
-        iterativeDivide();
+        //iterativeDivide();
+        printPyramid();
     }
 
     static void printAsterisks() {
